@@ -1,0 +1,12 @@
+*{
+    margin: 20;
+    background-color: antiquewhite;
+}
+.nature img{
+    width: 100%;
+    margin-bottom: 1rem;
+    border-radius: 30px;
+}
+.nature{
+    columns: 340px;
+}
